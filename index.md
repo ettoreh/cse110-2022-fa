@@ -46,6 +46,6 @@ This year I travel multiple times:
 - Now in San Diego.
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-[Access the Readme file for this project](README.md)
+This site was built using [GitHub Pages](https://pages.github.com/).<br>
+[Access the Readme file for this project](README.md)<br>
 Use `git clone https://github.com/ettoreh/cse110-2022-fa` to clone the repository of this project.
